@@ -25,30 +25,18 @@ An easy photo editor integration for your Android apps.
 
 <br>
 
-## Previews
+## Modes
 
-Main Menu | Text Mode
-:--: | :--:
-<img src="/static/main_menu.gif" width="300" /> | <img src="/static/text_mode.gif" width="300" />
-
-Rotate Mode | Crop Mode
-:--: | :--:
-<img src="/static/rotate_mode.gif" width="300" /> | <img src="/static/crop_feature.gif" width="300" />
-
-Filter Mode |  Paint Mode
-:--: | :--:
-<img src="/static/filter_mode.gif" width="300" /> | <img src="/static/paint_mode.gif" width="300" />
-
-Beauty Mode | Saturation Mode
-:--: | :--:
-<img src="/static/beauty_mode.gif" width="300" /> | <img src="/static/saturation_mode.gif" width="300" />
-
-Brightness Mode | Sticker Mode
-:--: | :--:
-<img src="/static/brightness_mode.gif" width="300" /> | <img src="/static/sticker_mode.gif" width="300" />
-
-<br>
-
+- Main Menu 
+- Text Mode
+- Rotate Mode
+- Crop Mode
+- Filter Mode 
+- Paint Mode
+- Beauty Mode
+- Saturation Mode
+- Brightness Mode
+- Sticker Mode
 
 ## Dual Licensing
 
